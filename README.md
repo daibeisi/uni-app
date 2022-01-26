@@ -1,4 +1,4 @@
-# **[使用单位小程序](https://code.aliyun.com/2083048369/mini-program)**
+# [学习uni-app开发仓库](https://github.com/daibeisi/uni-app)
 
 ## 项目结构
     mini-program
@@ -22,4 +22,3 @@
     ├── pages.json               // 配置页面路由、导航条、选项卡等页面类信息
     ├── README.md                // 项目手册
     └── uni.scss                 // 内置的常用样式变量介绍
-
